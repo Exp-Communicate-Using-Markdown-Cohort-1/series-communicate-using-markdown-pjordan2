@@ -7,3 +7,7 @@
 fav = input("What is your favorite number")
 print(fav)
 ```
+#### Action List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
